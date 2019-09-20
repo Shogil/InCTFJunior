@@ -214,7 +214,9 @@ a.single-about,
   top: 52px;
   left: 0;
 }
-
+.tc{
+ text-align:center;
+}
 .main-menu li.active ul li a {
   color: #fff;
 }
